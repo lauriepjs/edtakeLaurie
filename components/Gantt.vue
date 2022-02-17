@@ -17,19 +17,60 @@ export default {
     return {
       tasks: [
         {
-          id: "Task 1",
-          name: "Candidater",
-          start: "2022-2-9",
-          end: "2022-4-15",
-          progress: 100,
-        },
-        {
-          id: "Task 2",
-          name: "Envoyer un mail récapitulatif",
-          start: "2022-4-14",
-          end: "2022-8-14",
-          progress: 100,
-        },
+				start: '2022-01-01',
+				end: '2022-08-08',
+				name: 'Redesign website',
+				id: "Task 0",
+				progress: 20
+			},
+			{
+				start: '2022-02-03',
+				end: '2022-02-06',
+				name: 'Write new content',
+				id: "Task 1",
+				progress: 5,
+				dependencies: 'Task 0'
+			},
+			{
+				start: '2022-03-04',
+				end: '2022-03-08',
+				name: 'Apply new styles',
+				id: "Task 2",
+				progress: 10,
+				dependencies: 'Task 1'
+			},
+			{
+				start: '2022-03-08',
+				end: '2022-03-09',
+				name: 'Review',
+				id: "Task 3",
+				progress: 5,
+				dependencies: 'Task 2'
+			},
+			{
+				start: '2022-04-08',
+				end: '2022-05-10',
+				name: 'Deploy',
+				id: "Task 4",
+				progress: 0,
+				dependencies: 'Task 2'
+			},
+			{
+				start: '2022-05-11',
+				end: '2022-06-11',
+				name: 'Go Live!',
+				id: "Task 5",
+				progress: 0,
+				dependencies: 'Task 4',
+				custom_class: 'bar-milestone'
+			},
+			{
+				start: '2022-01-05',
+				end: '2022-08-12',
+				name: 'Long term task',
+				id: "Task 6",
+				progress: 0
+			}
       ],
     };
   },
