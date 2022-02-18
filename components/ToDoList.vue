@@ -22,6 +22,7 @@
   </main>
 </template>
 
+
 <script>
 export default {
   data (){

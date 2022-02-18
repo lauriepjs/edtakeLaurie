@@ -7,6 +7,7 @@
   </div>
 </template>
 
+
 <script>
 import Gantt from "frappe-gantt";
 

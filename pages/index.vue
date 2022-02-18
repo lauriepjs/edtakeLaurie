@@ -1,7 +1,6 @@
 <template>
   <div>
     <Navbar />
-    
     <h1>Welcome to my Edtake Test</h1>
   </div>
 </template>
@@ -13,5 +12,7 @@ export default {
   name: 'IndexPage'
 }
 </script>
+
+
 
 
