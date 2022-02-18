@@ -5,13 +5,13 @@
   "Navbar": {
     "description": "Auto imported from components/Navbar.vue"
   },
-  "NuxtLogo": {
-    "description": "Auto imported from components/NuxtLogo.vue"
-  },
   "Task": {
     "description": "Auto imported from components/Task.vue"
   },
   "ToDoList": {
     "description": "Auto imported from components/ToDoList.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
   }
 }

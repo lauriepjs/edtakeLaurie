@@ -8,6 +8,6 @@ You can directly use them in pages and other components without the need to impo
 
 - `<Gantt>` | `<gantt>` (components/Gantt.vue)
 - `<Navbar>` | `<navbar>` (components/Navbar.vue)
-- `<NuxtLogo>` | `<nuxt-logo>` (components/NuxtLogo.vue)
 - `<Task>` | `<task>` (components/Task.vue)
 - `<ToDoList>` | `<to-do-list>` (components/ToDoList.vue)
+- `<Tutorial>` | `<tutorial>` (components/Tutorial.vue)

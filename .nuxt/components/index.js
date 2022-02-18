@@ -1,8 +1,8 @@
 export { default as Gantt } from '../../components/Gantt.vue'
 export { default as Navbar } from '../../components/Navbar.vue'
-export { default as NuxtLogo } from '../../components/NuxtLogo.vue'
 export { default as Task } from '../../components/Task.vue'
 export { default as ToDoList } from '../../components/ToDoList.vue'
+export { default as Tutorial } from '../../components/Tutorial.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {
