@@ -1,0 +1,16 @@
+[
+  {
+    "name": "GanttTask",
+    "path": "/GanttTask",
+    "component": "/Users/lauriepujos/projet-wild/edtakeProjet/edtakeLaurie/pages/GanttTask.vue",
+    "chunkName": "pages/GanttTask",
+    "_name": "_5ad5b2f0"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/lauriepujos/projet-wild/edtakeProjet/edtakeLaurie/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_b959522e"
+  }
+]
