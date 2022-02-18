@@ -1,6 +1,5 @@
 <template>
   <div>
-    <h1>Voici le Gantt</h1>
     <link rel="stylesheet" href="frappe-gantt.css" />
     <script src="dist/frappe-gantt.js"></script>
     <svg id="gantt"></svg>

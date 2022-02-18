@@ -20,6 +20,7 @@ export default {
   margin-bottom: 20px;
   justify-content: center;
   height: 30px;
+  margin: 10px;
 }
 a {
   margin-right: 20px;
